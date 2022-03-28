@@ -1,3 +1,3 @@
-# scala_spark
+# sbt
 
 sbt assembly
